@@ -1,0 +1,10 @@
+x = 5 & 3;
+y = 5 | 3;
+z = 5 ^ 3;
+t = 5 << 2;
+m = 5 >> 2;
+print(x);
+print(y);
+print(z);
+print(t);
+print(m);
